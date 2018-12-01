@@ -1,5 +1,8 @@
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhoneSimulator\Debug\TravelRecordApp.iOS.exe
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhoneSimulator\Debug\TravelRecordApp.iOS.pdb
+C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Extensions.dll
+C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Primitives.dll
+C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll

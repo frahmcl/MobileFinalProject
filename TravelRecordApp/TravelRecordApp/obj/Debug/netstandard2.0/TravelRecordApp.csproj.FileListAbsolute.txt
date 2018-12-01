@@ -11,7 +11,7 @@ C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csproj.CoreCompileInputs.cache
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfoInputs.cache
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfo.cs
+C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.dll
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.pdb
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csprojAssemblyReference.cache
-C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp

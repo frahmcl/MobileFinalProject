@@ -1,6 +1,7 @@
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.deps.json
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.dll
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.pdb
+C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csprojAssemblyReference.cache
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
@@ -14,4 +15,3 @@ C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.dll
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.pdb
-C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csprojAssemblyReference.cache

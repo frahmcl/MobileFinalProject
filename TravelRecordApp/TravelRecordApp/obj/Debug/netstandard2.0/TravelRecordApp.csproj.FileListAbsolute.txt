@@ -15,3 +15,4 @@ C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.dll
 C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.pdb
+C:\Users\frahm\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\ExperiencePage.xaml.g.cs

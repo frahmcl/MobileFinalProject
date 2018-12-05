@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TravelRecordApp.ExperiencePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label FontAttributes="Bold" FontSize="Large" Text="You shared your experience:" />
+            <Label Text="{Binding PostDate}" />
+            <Label FontAttributes="Bold" FontSize="Large" Text="Experience" />
+            <Label LineBreakMode="WordWrap" Text="{Binding Experience}"/>
+            <Label FontAttributes="Bold" FontSize="Large" Text="Description" />
+            <Label LineBreakMode="WordWrap" Text="{Binding Description}" />
+            <Label FontAttributes="Bold" FontSize="Large" Text="Venue" />
+            <Label LineBreakMode="WordWrap" Text="{Binding VenueName}" />
+            <Label FontAttributes="Bold" FontSize="Large" Text="Address" />
+            <Label LineBreakMode="WordWrap" Text="{Binding Address}" />
+            <Button Text="Delete" Clicked="OnDeleteClicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

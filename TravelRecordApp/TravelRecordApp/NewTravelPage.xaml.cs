@@ -39,6 +39,8 @@ namespace TravelRecordApp
                 Post post = new Post()
                 {
                     Experience = experienceEntry.Text,
+                    Description = descriptionEntry.Text,
+                    PostDate = DateTime.Now,
                     CategoryId = firstCategory.id,
                     CategoryName = firstCategory.name,
                     Address = selectedVenue.location.address,
@@ -55,12 +57,13 @@ namespace TravelRecordApp
 
                     if (rows > 0)
                     {
-                        DisplayAlert("Success", "Experience successfully inserted", "Ok");
+                        DisplayAlert("Success", "Great post, you can forget it immediately now! ", "Great");
                     }
                     else
                     {
-                        DisplayAlert("Failure", "Experience failed to be inserted", "Ok");
+                        DisplayAlert("Failure", "You'll just have to remember, we couldn't save it!", "Ok");
                     }
+                    Navigation.PushAsync(new HistoryPage());
                 }
             }
             catch(NullReferenceException nre)

@@ -12,6 +12,8 @@
         <StackLayout>
             <Entry x:Name="experienceEntry"
                    Placeholder="Write your experience" />
+            <Entry x:Name="descriptionEntry"
+                   Placeholder="Write your description" />
             <ListView x:Name="venueListView"
                       Margin="20, 0"
                       HorizontalOptions="FillAndExpand">
